@@ -1,0 +1,40 @@
+nuget link
+-----------------------------
+wget https://dist.nuget.org/win-x86-commandline/v5.3.0/nuget.exe
+url::::::https://www.nuget.org/downloads
+
+------------------------------------
+
+maven link
+-----------------------
+wget http://mirrors.estointernet.in/apache/maven/maven-3/3.6.2/binaries/apache-maven-3.6.2-bin.zip
+
+url:::::https://maven.apache.org/download.cgi
+
+------------------------------
+
+java link
+----------------------------
+ wget -c --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-linux-x64.tar.gz
+
+url::::: https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-linux-via-wget-is-shown-license-page-instead
+
+--------------------------------------
+
+jenkins link
+-------------------------------------
+
+wget https://updates.jenkins-ci.org/download/war/2.200/jenkins.war
+
+url::::::https://updates.jenkins-ci.org/download/war/
+
+-------------------------------------------
+
+tomcat link
+---------------------------------
+wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz
+
+url::::::https://tomcat.apache.org/download-90.cgi
+
+
+
