@@ -8,3 +8,10 @@ https://devops4solutions.com/ci-cd-with-jenkins-net/
 
 NANT
 https://sourceforge.net/projects/nant/files/
+
+
+
+
+Jenkins CI/CD to deploy an ASP.NET Core application to Azure Web App service:-
+
+https://cloudblogs.microsoft.com/opensource/2018/09/21/configure-jenkins-cicd-pipeline-deploy-asp-net-core-application/
