@@ -23,3 +23,9 @@ http://manpages.ubuntu.com/manpages/trusty/man1/xbuild.1.html
 mono installation: 
 .........................
 https://www.mono-project.com/download/stable/#download-lin
+
+
+mono in jenkins:-
+.....................
+
+https://stackoverflow.com/questions/37875850/msbuild-with-mono-on-jenkins
