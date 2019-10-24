@@ -37,3 +37,7 @@ https://stackoverflow.com/questions/37875850/msbuild-with-mono-on-jenkins
 
 jenkins with mono: 
 https://jenkins.mono-project.com/job/test-mono-mainline-community-chroot/
+
+msbuild: 
+.......
+github :  https://github.com/microsoft/msbuild
