@@ -8,3 +8,9 @@ sudo apt update
 sudo apt install mono-devel
 
 refer url :  https://www.mono-project.com/download/stable/#download-lin
+
+
+
+
+Sonar-setup 
+https://www.c-sharpcorner.com/article/sonarqube-configuration-for-net-core-web-api/
