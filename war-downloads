@@ -24,7 +24,7 @@ url::::: https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-li
 jenkins link
 -------------------------------------
 
-wget https://updates.jenkins-ci.org/download/war/2.200/jenkins.war
+wget https://updates.jenkins-ci.org/download/war/2.138/jenkins.war
 
 url::::::https://updates.jenkins-ci.org/download/war/
 
