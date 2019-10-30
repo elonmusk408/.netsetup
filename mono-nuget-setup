@@ -19,6 +19,10 @@ https://stackoverflow.com/questions/38118548/how-to-install-nuget-from-command-l
 
 https://docs.microsoft.com/en-us/nuget/install-nuget-client-tools
 
+................
+Install dot-net sdk:
+https://dotnet.microsoft.com/download/linux-package-manager/ubuntu16-04/sdk-current
+
 
 
 
