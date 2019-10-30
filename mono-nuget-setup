@@ -10,6 +10,14 @@ sudo apt install mono-devel
 refer url :  https://www.mono-project.com/download/stable/#download-lin
 
 
+.......................
+Nunit install : 
+https://stackoverflow.com/questions/31038629/run-nunit-test-on-ubuntu-from-command-line
+
+NUGET: 
+https://stackoverflow.com/questions/38118548/how-to-install-nuget-from-command-line-on-linux
+
+
 
 
 Sonar-setup 
