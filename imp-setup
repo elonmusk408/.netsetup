@@ -35,9 +35,18 @@ mono in jenkins:-
 https://stackoverflow.com/questions/37875850/msbuild-with-mono-on-jenkins
 
 
+
 jenkins with mono: 
 https://jenkins.mono-project.com/job/test-mono-mainline-community-chroot/
 
 msbuild: 
 .......
 github :  https://github.com/microsoft/msbuild
+
+
+
+
+Deployment:
+...................
+
+https://jeroenhildering.com/2016/04/25/continuous-delivery-for-net-applications-using-jenkins/
