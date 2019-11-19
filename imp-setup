@@ -35,8 +35,6 @@ mono in jenkins:-
 https://stackoverflow.com/questions/37875850/msbuild-with-mono-on-jenkins
 
 
-CI/CD- IIS
-https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/
 
 
 jenkins with mono: 
@@ -46,7 +44,9 @@ msbuild:
 .......
 github :  https://github.com/microsoft/msbuild
 
-
+CD- IIS  main
+https://dzone.com/articles/cicd-in-aspnet-mvc-using-jenkins
+https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/
 
 
 Deployment:
